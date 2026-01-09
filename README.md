@@ -1,18 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+AI Usage Limitation
+Due to the paid AI service reaching its usage limit, the following message was encountered during testing:
 
-# Run and deploy your AI Studio app
+“AI Limit Reached. Free tier restrictions applied. A professional fallback image has been loaded instead.”
 
-This contains everything you need to run your app locally.
+To ensure uninterrupted functionality, a fallback image mechanism was implemented.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1n6twhiJwKfUUkDLPpplKGr9wcX623AV4
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Free Trial Testing
+During the free trial period, multiple tests were conducted to validate the AI-based search and content generation related to the above description. The results of these tests are shown in the image below for reference.
 
 
+
+1. Due to some paid API's 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
