@@ -1,0 +1,8 @@
+
+{
+  "name": "FlavorFlow - Smart Menu Creator",
+  "description": "A powerful tool for merchants to create menu items using natural language and share them instantly via WhatsApp. Features an AI-powered parsing engine and a seamless customer shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
